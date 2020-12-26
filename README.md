@@ -11,7 +11,7 @@ Island Generator Algorithm implemented using SimplexNoise and Python.
 2. Foreach position in the matrix call the noise function to get a value
 3. The noise function parameters are modified according to custom variables (frequency and octaves)
 4. To create the island effect, it applies a mask to reduce values near the edge
-5. Finally, each variable is mapped according to a color table and saved as a image
+5. Finally, each variable is mapped according to a color table and saved as an image
 
 ## Customisation
 - `WIDTH` and `HEIGTH` of the map

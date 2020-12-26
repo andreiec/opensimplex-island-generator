@@ -22,11 +22,11 @@ Island Generator Algorithm implemented using SimplexNoise and Python.
 
 ## Examples
 Below you can find some of the examples and their corresponding seeds. You can find more in the *examples* folder.
-- #### Seed 1039
+- **Seed 1039**
 <img src="./examples/MapSeed1039.png" alt="iamge not found" width="400" height="400">
 
-- #### Seed 1063
+- **Seed 1063**
 <img src="./examples/MapSeed1063.png" alt="iamge not found" width="400" height="400">
 
-- #### Seed 621
+- **Seed 621**
 <img src="./examples/MapSeed621.png" alt="iamge not found" width="400" height="400">
